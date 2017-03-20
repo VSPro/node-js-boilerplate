@@ -1,1 +1,1 @@
-console.log('Node Boilerplate');
+console.log('NodeJS Boilerplate');
